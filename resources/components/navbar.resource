@@ -1,7 +1,8 @@
 *** Settings ***
+
 Documentation        Representação do menu superior
 
-Library              Browser
+Library    Browser
 
 *** Keywords ***
 User Should Be Looged In 

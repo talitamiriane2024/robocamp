@@ -1,7 +1,8 @@
 *** Settings ***
+
 Documentation        Representação do componente toast
 
-Library        Browser
+Library    Browser
 
 *** Keywords ***
 Verify Toaster
